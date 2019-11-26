@@ -1,0 +1,23 @@
+.row-header{
+    background-color: gainsboro;
+    margin-bottom: 10px;
+    padding-top: 2rem;
+    padding-bottom: 2rem
+}
+.col-header{
+    text-align: center;
+    margin: auto;
+}
+
+.col-feature{
+    padding-top: 2rem;
+}
+
+.f-image{
+    width: 80%;
+}
+
+.col-facts{
+    border-style: solid;
+    border-color: grey
+}
